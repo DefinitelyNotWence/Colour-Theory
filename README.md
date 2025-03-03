@@ -1,5 +1,7 @@
 # COLOUR THEORY my first GitHub commit :>
-A little 2D pixel art platformer where you play as a slime that changes colours to adapt to the varying conditions of each level.
+A little 2D pixel art platformer where you play as a slime that changes colours to adapt to the varying conditions of each level. <br>
+I made this project using Unity, with C# as the language for all the scripts. <br>
+All assets were created by me using Aseprite
 
 ## Download and installation
 Simply download this project from my GitHub, and the .exe will be located in: /Builds/Windows/x64/Colour Theory.exe
